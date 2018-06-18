@@ -1,0 +1,7 @@
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Seminar 10 - Async\Week10Async\Week10Async\bin\Debug\Week10Async.exe.config
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Seminar 10 - Async\Week10Async\Week10Async\bin\Debug\Week10Async.exe
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Seminar 10 - Async\Week10Async\Week10Async\bin\Debug\Week10Async.pdb
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Seminar 10 - Async\Week10Async\Week10Async\obj\Debug\Week10Async.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Seminar 10 - Async\Week10Async\Week10Async\obj\Debug\Week10Async.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Seminar 10 - Async\Week10Async\Week10Async\obj\Debug\Week10Async.exe
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Seminar 10 - Async\Week10Async\Week10Async\obj\Debug\Week10Async.pdb

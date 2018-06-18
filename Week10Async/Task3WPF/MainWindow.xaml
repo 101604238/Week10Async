@@ -1,0 +1,35 @@
+﻿<Window x:Class="Task3WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task3WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid Margin="50">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0">
+                <Border BorderBrush="Black" BorderThickness="1">
+                    <TextBox Width="275" Height="50" x:Name="inputTextBox"/>
+                </Border>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Button Width="275" Height="50" FontSize="24" Content="Find the Prime Number" x:Name="primeNumber" Click="primeNumber_Click"/>
+            </Grid>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <TextBlock TextWrapping="WrapWithOverflow" x:Name="resultLabel" Text="" FontSize="20"/>
+        </Grid>
+    </Grid>
+</Window>

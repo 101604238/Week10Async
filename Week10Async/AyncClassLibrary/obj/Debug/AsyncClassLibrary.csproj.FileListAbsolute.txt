@@ -1,0 +1,5 @@
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Seminar 10 - Async\Week10Async\AyncClassLibrary\bin\Debug\AyncClassLibrary.dll
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Seminar 10 - Async\Week10Async\AyncClassLibrary\bin\Debug\AyncClassLibrary.pdb
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Seminar 10 - Async\Week10Async\AyncClassLibrary\obj\Debug\AsyncClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Seminar 10 - Async\Week10Async\AyncClassLibrary\obj\Debug\AyncClassLibrary.dll
+C:\Users\STUDENT\Desktop\101604238\Programming - Tim\Seminar 10 - Async\Week10Async\AyncClassLibrary\obj\Debug\AyncClassLibrary.pdb
